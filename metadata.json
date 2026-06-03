@@ -1,0 +1,6 @@
+{
+  "name": "Technical Interview Coach",
+  "description": "An interactive, AI-powered system design, coding, and behavioral technical interview simulator that tracks your progress, evaluates answers, and guides your preparations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
